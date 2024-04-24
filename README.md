@@ -1,4 +1,4 @@
-# WebdriverIO Demo App for iOS and Android
+#  Demo App for iOS and Android
 
 This app is built with React Native and will be used for test automation purposes for the [appium-boilerplate](https://github.com/webdriverio/appium-boilerplate).
 
